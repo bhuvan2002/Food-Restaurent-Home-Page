@@ -2,12 +2,10 @@
 
 This is a one-page HTML/CSS website for a hypothetical restaurant.
 
-
 # Technologies Used :
 
 -   HTML
 -   CSS
-
 
 ## Making Use of Tools
 
@@ -16,3 +14,6 @@ This is a one-page HTML/CSS website for a hypothetical restaurant.
 -   GIT
 -   GITHUB
 -   NETLIFY
+
+
+[Live Link of the project](https://bhuvan2002.github.io/Food-Restaurent-Home-Page/)
